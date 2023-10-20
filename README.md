@@ -1,3 +1,5 @@
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SkalskiP/SoM/blob/master/unofficial_som_demo.ipynb)
+
 # Set-of-Mark (SoM)
 
 ## 👋 hello
@@ -9,7 +11,11 @@ Zhang, Feng Li, Xueyan Zou, Chunyuan Li, Jianfeng Gao.
 
 ## 🛠️ how it works?
 
-TODO
+Run Google Colab with an unofficial SoM implementation. Load your image and select 
+the appropriate `MIN_AREA_PERCENTAGE` and `MAX_AREA_PERCENTAGE` values to label 
+the objects of interest.
+
+![image (28)](https://github.com/SkalskiP/SoM/assets/26109316/51934c68-4929-456a-9e4a-e958c9e72574)
 
 ## 📍 roadmap
 
